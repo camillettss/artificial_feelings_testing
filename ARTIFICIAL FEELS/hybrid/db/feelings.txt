@@ -1,0 +1,13 @@
+valori:
+
+h -> happyness
+s -> sadness
+a -> angry
+
+stabilire un sentimento:
+
+esempio:
+
+stats=4, 4, 9
+
+value=sum(stats)/len(stats)

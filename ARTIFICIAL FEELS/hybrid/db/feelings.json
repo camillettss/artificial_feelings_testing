@@ -1,0 +1,18 @@
+{
+    "h":0,
+    "s":0,
+    "a":0,
+    "otherdata":{
+        "max":10,
+        "min":-10
+    },
+    "associations":{
+        "0":"so fucking bad",
+        "1":"so bad",
+        "2":"bad",
+        "3":"normal",
+        "4":"fine",
+        "5":"good",
+        "6":"soo happy"
+    }
+}
